@@ -9,7 +9,7 @@ projects[adminimal_theme][version] = "1.21"
 projects[adminimal_theme][type] = "theme"
 
 projects[bootstrap][subdir] = "contrib"
-projects[bootstrap][version] = "3.0"
+projects[bootstrap][version] = "3.1-beta3"
 projects[bootstrap][type] = "theme"
 
 projects[omega][subdir] = "contrib"
